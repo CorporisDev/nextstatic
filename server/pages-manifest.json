@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/ProductFeatures": "pages/ProductFeatures.html",
+  "/components/Asesoria": "pages/components/Asesoria.html",
+  "/components/HeroSection": "pages/components/HeroSection.html",
+  "/components/ImageSlider": "pages/components/ImageSlider.html",
+  "/components/OrderPopup": "pages/components/OrderPopup.html",
+  "/components/OrderPopup2": "pages/components/OrderPopup2.html",
+  "/components/ProductDetails": "pages/components/ProductDetails.html",
+  "/components/PromoBanner": "pages/components/PromoBanner.html",
+  "/components/Testimonials": "pages/components/Testimonials.html",
+  "/components/TrainingBanner": "pages/components/TrainingBanner.html",
+  "/components/barraExtra": "pages/components/barraExtra.html",
+  "/": "pages/index.html",
+  "/layout": "pages/layout.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
